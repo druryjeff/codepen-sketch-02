@@ -9,7 +9,7 @@ body {
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: 1fr 1fr;
   grid-gap: 2rem;
-  background-color: #b2a18a;
+  background-color: red;
   font-family: 'Source Serif Pro', serif;
 }
 
